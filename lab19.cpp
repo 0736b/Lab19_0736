@@ -1,4 +1,4 @@
-// Please include header (lab19.h) here.
+#include<\\filesrv\User_Files$\thanawat_bumpengpun\Desktop\Lab19_0736\lab19.h> // Please include header (lab19.h) here.
 
 int main(){
 	srand(time(0));
